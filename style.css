@@ -1,0 +1,14 @@
+.heading {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    box-shadow: 5px 20px 20px black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+canvas {
+    box-shadow: 5px 5px 38px grey;
+    border: 5px solid rgb(0, 150, 255);
+    border-radius: 20px;
+    color: grey;
+}
